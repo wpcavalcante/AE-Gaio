@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline:none;
+    list-style-type: none;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+button{
+    border:0;
+    cursor: pointer;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: var(--font-style1);
+    font-size: 1rem;
+    background-color: var(--main-color3);
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:visited{
+    text-decoration: none;
+}

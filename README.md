@@ -9,8 +9,14 @@ Ae Gaio é um site de um time de futebol fictício com uma loja embutida. Utiliz
 
 
 
-## Layout 
+## Layout Web
 ![Web 1](https://github.com/wpcavalcante/Assets/blob/main/gaio.png)
+![Web 2](https://github.com/wpcavalcante/Assets/blob/main/ae-gaio2.png)
+
+## Layout Loja
+![Web 3](https://github.com/wpcavalcante/Assets/blob/main/ae-gaio3.png)
+
+
 
 
 
